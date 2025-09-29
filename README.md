@@ -31,8 +31,8 @@ A comprehensive computer vision system for detecting and estimating human body k
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd human-pose-estimation
+git clone https://github.com/shivasharan21/PoseTrack-Human-Pose-Estimation-using-Deep-Learning.git
+cd PoseTrack-Human-Pose-Estimation-using-Deep-Learning
 ```
 
 2. Install dependencies:

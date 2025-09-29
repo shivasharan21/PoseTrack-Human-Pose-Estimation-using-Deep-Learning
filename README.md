@@ -45,6 +45,22 @@ pip install -r requirements.txt
 python scripts/download_weights.py
 ```
 
+##▶️ Running the Applications
+1. Real-time Pose Detection (Webcam)
+python demos/real_time_pose_detection.py
+
+2. Image Pose Detection
+python demos/image_pose_detection.py --image path/to/image.jpg
+
+3. Video Pose Detection
+python demos/image_pose_detection.py --video path/to/video.mp4
+
+4. Model Training Demo
+python demos/model_training_demo.py
+
+5. Model Optimization Demo
+python demos/optimization_demo.py
+
 ## Quick Start
 
 ### Real-time Pose Detection
